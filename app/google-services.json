@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "311143439780",
+    "project_id": "viccastreceiver",
+    "storage_bucket": "viccastreceiver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311143439780:android:f3ab4c6d6c3894f5747531",
+        "android_client_info": {
+          "package_name": "com.vic.castreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311143439780-ei81cuoh8t8conu51e55jvj8aqurn6sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vic.castreceiver",
+            "certificate_hash": "7d6294c629766d2421597cf3088dae2d6f8ac336"
+          }
+        },
+        {
+          "client_id": "311143439780-gamflei6clrgch4b5313a7mh0qcl07pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqeHI7WaX4oBYUJdPdApsqGwTresDgoqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311143439780-gamflei6clrgch4b5313a7mh0qcl07pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
