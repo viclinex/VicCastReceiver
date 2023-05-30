@@ -253,7 +253,7 @@ public class MainActivity extends AppCompatActivity {
 				for (int i = 0; i < values.size(); i++) {
 					sb.append("," + values.get(i));
 				}
-				Log.d("kyu-URLConnection-Key", key + "=" + sb.toString().substring(1));
+				Log.d(TAG, key + "=" + sb.toString().substring(1));
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
